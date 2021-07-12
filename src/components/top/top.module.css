@@ -1,0 +1,29 @@
+.name-section {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.name-section h1 {
+  margin: 50px auto 0 auto;
+}
+
+.name-section h2 {
+  font-weight: normal;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.pro {
+  text-decoration: underline;
+}
