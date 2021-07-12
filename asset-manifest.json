@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cv/static/css/main.5b978def.chunk.css",
+    "main.js": "/cv/static/js/main.a396b158.chunk.js",
+    "main.js.map": "/cv/static/js/main.a396b158.chunk.js.map",
+    "runtime-main.js": "/cv/static/js/runtime-main.46a4307b.js",
+    "runtime-main.js.map": "/cv/static/js/runtime-main.46a4307b.js.map",
+    "static/js/2.c03cc161.chunk.js": "/cv/static/js/2.c03cc161.chunk.js",
+    "static/js/2.c03cc161.chunk.js.map": "/cv/static/js/2.c03cc161.chunk.js.map",
+    "static/js/3.3788a58c.chunk.js": "/cv/static/js/3.3788a58c.chunk.js",
+    "static/js/3.3788a58c.chunk.js.map": "/cv/static/js/3.3788a58c.chunk.js.map",
+    "index.html": "/cv/index.html",
+    "static/css/main.5b978def.chunk.css.map": "/cv/static/css/main.5b978def.chunk.css.map",
+    "static/js/2.c03cc161.chunk.js.LICENSE.txt": "/cv/static/js/2.c03cc161.chunk.js.LICENSE.txt",
+    "static/media/mountain.b19dbf26.png": "/cv/static/media/mountain.b19dbf26.png",
+    "static/media/profile.bd3148d8.png": "/cv/static/media/profile.bd3148d8.png",
+    "static/media/quotes.2835f2b3.png": "/cv/static/media/quotes.2835f2b3.png",
+    "static/media/shopping.cbd4fe09.png": "/cv/static/media/shopping.cbd4fe09.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46a4307b.js",
+    "static/js/2.c03cc161.chunk.js",
+    "static/css/main.5b978def.chunk.css",
+    "static/js/main.a396b158.chunk.js"
+  ]
+}
